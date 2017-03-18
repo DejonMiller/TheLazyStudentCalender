@@ -36,9 +36,6 @@ import java.util.Calendar;
 
 import com.googlecode.tesseract.android.TessBaseAPI;
 
-/**
- * Created by tguic on 4/13/2016.
- */
 public class imgCapture extends Fragment implements View.OnClickListener {
 
     View view;
